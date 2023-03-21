@@ -15,4 +15,3 @@ class RestaurantPizzaController < ApplicationController
       end
       
 end
-end
